@@ -1,0 +1,3 @@
+generateur de voxel fading
+
+donner des prioritée de construction de mesh
